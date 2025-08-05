@@ -1,16 +1,16 @@
-<<<<<<< HEAD
-# 💼 Smart Resume Ranker
+
+#  Smart Resume Ranker
 
 A powerful AI-powered resume ranking application that uses both traditional keyword matching (TF-IDF) and advanced semantic matching (BERT) to rank resumes against job descriptions.
 
-## 🚀 Features
+##  Features
 
-### 📄 **Multi-Format Support**
+###  **Multi-Format Support**
 - **PDF Resume Support**: Upload `.pdf` files alongside `.docx`
 - **Word Document Support**: Upload `.docx` files
 - **Automatic Text Extraction**: Handles complex formatting and layouts
 
-### 🧠 **Dual Matching Algorithms**
+###  **Dual Matching Algorithms**
 - **BERT Semantic Matching**: Advanced AI that understands context and meaning
   - Recognizes synonyms (e.g., "ML" ≈ "Machine Learning")
   - Understands related concepts and skills
@@ -20,23 +20,23 @@ A powerful AI-powered resume ranking application that uses both traditional keyw
   - Shows exact word overlaps
   - Good baseline comparison
 
-### 🔍 **Keyword Highlighting**
+###  **Keyword Highlighting**
 - **Visual Keyword Matching**: Shows top overlapping keywords between JD and resume
 - **Highlighted Display**: Keywords are visually highlighted in results
 - **Match Count**: Displays number of matched keywords per resume
 
-### 📊 **Comprehensive Results**
+###  **Comprehensive Results**
 - **Ranked Results**: Resumes ranked by match score
 - **Score Categories**: Color-coded scores (Excellent/Good/Needs Improvement)
 - **Detailed Metrics**: Word count, character count, match percentage
 - **Expandable Details**: Click to see detailed analysis for each resume
 
-### 📥 **CSV Export**
+###  **CSV Export**
 - **Download Results**: Export ranked results as CSV
 - **Detailed Report**: Includes match scores, percentages, and keyword lists
 - **Professional Format**: Ready for HR/recruitment use
 
-## 🛠️ Installation
+## 🛠 Installation
 
 ### Prerequisites
 - Python 3.7+
@@ -63,7 +63,7 @@ A powerful AI-powered resume ranking application that uses both traditional keyw
    - Open your browser and go to `http://localhost:8501`
    - The app will automatically open in your default browser
 
-## 📋 Requirements
+##  Requirements
 
 Create a `requirements.txt` file with the following dependencies:
 
@@ -78,7 +78,7 @@ docx2txt>=0.8
 pdfplumber>=0.7.0
 ```
 
-## 🎯 How to Use
+##  How to Use
 
 ### 1. **Enter Job Description**
 - Paste the complete job description in the text area
@@ -98,7 +98,7 @@ pdfplumber>=0.7.0
 - Click on each result to see detailed analysis
 - Download results as CSV for further use
 
-## 🧪 Testing with Sample Data
+##  Testing with Sample Data
 
 The project includes sample data for testing:
 
@@ -112,7 +112,7 @@ To test:
 2. Upload the resume files
 3. Compare results between TF-IDF and BERT methods
 
-## 🔬 Technical Details
+##  Technical Details
 
 ### **BERT Semantic Matching**
 - Uses `all-MiniLM-L6-v2` model (fast and efficient)
@@ -139,7 +139,7 @@ To test:
 | **BERT** | Slower | Higher | Complex job descriptions, semantic understanding |
 | **TF-IDF** | Faster | Lower | Quick screening, exact keyword matching |
 
-## 🎨 Features in Detail
+##  Features in Detail
 
 ### **Smart UI/UX**
 - **Responsive Design**: Works on desktop and mobile
@@ -153,7 +153,7 @@ To test:
 - **Statistics Dashboard**: Summary metrics and trends
 - **Export Functionality**: Professional CSV reports
 
-## 🚀 Deployment
+##  Deployment
 
 ### **Local Development**
 ```bash
@@ -166,7 +166,7 @@ The app can be deployed on:
 - **Heroku**: With proper configuration
 - **AWS/GCP**: Using containerization
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
@@ -174,22 +174,22 @@ The app can be deployed on:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Streamlit**: For the amazing web app framework
 - **Hugging Face**: For the sentence-transformers library
 - **scikit-learn**: For the TF-IDF implementation
 - **pdfplumber**: For PDF text extraction
 
-## 📞 Contact
+##  Contact
 
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **GitHub**: https://github.com/AyeshaAnzer1610/
+- **LinkedIn**: https://www.linkedin.com/in/ayesha-a-1b530791/
+- **Email**: ayesha.anzer@gmail.com
 
 ---
 
