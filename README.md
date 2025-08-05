@@ -193,9 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository if you find it helpful!**
+ **Star this repository if you find it helpful!**
 
-🔗 **Share with your network to help others discover this tool!**
-=======
-"# SmartResumeRanker" 
->>>>>>> ecba2a6bf8dc322c94be9990200dcfd7521b9c19
+ **Share with your network to help others discover this tool!**
+
