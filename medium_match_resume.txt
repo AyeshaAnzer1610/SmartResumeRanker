@@ -1,0 +1,58 @@
+
+MIKE JOHNSON
+Software Developer
+mike.johnson@email.com | (555) 456-7890 | linkedin.com/in/mikejohnson
+
+PROFESSIONAL SUMMARY
+Full-stack software developer with 3 years experience building web applications 
+and APIs. Proficient in multiple programming languages and frameworks. 
+Interested in learning machine learning and AI technologies.
+
+TECHNICAL SKILLS
+Programming: JavaScript, Python, Java, C#, SQL
+Frameworks: React, Node.js, Django, Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB
+Cloud: AWS (EC2, S3, Lambda), Azure
+Tools: Git, Docker, Jenkins, Jira
+
+PROFESSIONAL EXPERIENCE
+
+Full-Stack Developer | WebTech Inc | 2021-Present
+• Developed RESTful APIs using Node.js and Express
+• Built responsive web applications with React
+• Implemented database design and optimization
+• Deployed applications using Docker and AWS
+• Collaborated with UX/UI designers on frontend development
+
+Software Developer | StartupXYZ | 2019-2021
+• Created web applications using Python and Django
+• Integrated third-party APIs and payment systems
+• Implemented user authentication and authorization
+• Optimized database queries and application performance
+• Participated in code reviews and agile development
+
+Junior Developer | Tech Solutions | 2018-2019
+• Assisted in developing web applications
+• Fixed bugs and implemented new features
+• Wrote unit tests and documentation
+• Learned new technologies and frameworks
+• Supported senior developers in project delivery
+
+EDUCATION
+Bachelor of Science in Computer Science | State University | 2018
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate
+• Microsoft Certified: Azure Developer Associate
+
+PROJECTS
+• Built an e-commerce platform with payment integration
+• Developed a task management application with real-time updates
+• Created a weather app using external APIs
+• Built a portfolio website with responsive design
+
+INTERESTS
+• Learning machine learning and AI
+• Contributing to open-source projects
+• Attending tech meetups and conferences
+• Reading about emerging technologies

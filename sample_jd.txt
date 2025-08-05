@@ -1,0 +1,29 @@
+
+Machine Learning Engineer
+
+We are seeking a talented Machine Learning Engineer to join our AI team. 
+The ideal candidate will have:
+
+Requirements:
+- Strong experience with Python, TensorFlow, and PyTorch
+- Deep understanding of machine learning algorithms and neural networks
+- Experience with data preprocessing, feature engineering, and model evaluation
+- Knowledge of cloud platforms (AWS, Azure, or GCP)
+- Experience with MLOps and model deployment
+- Strong background in statistics and mathematics
+- Experience with big data technologies (Spark, Hadoop)
+- Excellent problem-solving skills and analytical thinking
+
+Responsibilities:
+- Develop and deploy machine learning models
+- Optimize model performance and scalability
+- Collaborate with data scientists and software engineers
+- Implement automated ML pipelines
+- Conduct A/B testing and model validation
+- Stay updated with latest ML research and technologies
+
+Nice to have:
+- Experience with natural language processing (NLP)
+- Knowledge of computer vision
+- Experience with reinforcement learning
+- Publications in ML conferences or journals
