@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Smart Resume Ranker
 
 A powerful AI-powered resume ranking application that uses both traditional keyword matching (TF-IDF) and advanced semantic matching (BERT) to rank resumes against job descriptions.
@@ -195,3 +196,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you find it helpful!**
 
 🔗 **Share with your network to help others discover this tool!**
+=======
+"# SmartResumeRanker" 
+>>>>>>> ecba2a6bf8dc322c94be9990200dcfd7521b9c19
